@@ -1,0 +1,11 @@
+Comandos basicos iniciais para o git:
+
+git clone link do projeto      ---- Clona do repositório remoto para a sua máquina.
+
+git status    		       ---- Mostra os status dos arquivos
+
+git add .                      ---- Adiciona todas as alterações
+
+git commit -m "mensagem do commit"   ---- Adiciona o commit no repositório local com as alterações
+
+git push origin main           ---- Manda para o repositório remoto do github as alterações.
